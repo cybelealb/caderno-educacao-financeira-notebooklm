@@ -1,6 +1,6 @@
 # caderno-educacao-financeira-notebooklm
 
-## 🔗 [Acessar o caderno no NotebookLM]([https://notebooklm.google.com/notebook/123456](https://notebook.google.com/notebook/1d312e90-54f3-4e43-b16b-6d8c32749d84))
+## 🔗 [Acessar o caderno no NotebookLM]( https://notebooklm.google.com/notebook/123456](https://notebook.google.com/notebook/1d312e90-54f3-4e43-b16b-6d8c32749d84 )
 
 ---
 
