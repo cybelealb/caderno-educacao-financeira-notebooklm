@@ -1,6 +1,6 @@
 # caderno-educacao-financeira-notebooklm
 
-📚 **[Abrir o Caderno Temático no NotebookLM]([https://notebook.google.com/notebook/1d312e90-54f3-4e43-b16b-6d8c32749d84](https://notebook.google.com/notebook/1d312e90-54f3-4e43-b16b-6d8c32749d84))**
+📚 **[Abrir o Caderno NotebookLM](https://notebook.google.com/notebook/1d312e90-54f3-4e43-b16b-6d8c32749d84)**
 
 ---
 
